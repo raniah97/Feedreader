@@ -4,7 +4,7 @@
 
 
 ## How to download the game
-- you can download the zip file from here : https://github.com/raniah97/Feedreader/edit/master/
+- you can download the zip file from here : https://github.com/raniah97/Feedreader
 
 ## How to play
 
